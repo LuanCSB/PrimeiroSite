@@ -1,0 +1,32 @@
+h1{color: black;
+   font-size: 80px;
+   text-align: center;}
+
+a{color: black;
+        margin-left: 0%;}
+
+.Brasil{height: 0px;margin-left: 10% ;font-size: 20px;}
+
+.Alemanha{height:100px;margin-left: 25%;font-size: 20px }
+
+.França{margin-top: -5.5%;margin-left: 40%;font-size: 20px}
+
+.Belgica{margin-top:-1% ;margin-left: 55%;font-size: 20px}
+
+.Argentina{margin-top: -1%;margin-left: 70%;font-size: 20px}
+
+.Inglaterra{margin-top: -1%;margin-left: 85%;font-size: 20px}
+
+
+
+.BandeiraBrasil{margin-top: 2%;margin-left:8%}
+
+.BandeiraAlemanha{margin-top: 2%;margin-left:16%}
+
+.BandeiraFrança{margin-top: 2%;margin-left:8%}
+
+.BandeiraBelgica{margin-top: 2%;margin-left:8%}
+
+.BandeiraArgentina{margin-top: 2%;margin-left:8%}
+
+.BandeiraInglaterra{margin-top: 2%;margin-left:8%}
